@@ -16,6 +16,9 @@ MIT
 @angular/router
 MIT
 
+ngx-dropzone
+MIT
+
 ngx-google-places-autocomplete
 MIT
 
